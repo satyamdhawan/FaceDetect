@@ -1,0 +1,41 @@
+.box{
+	position: absolute;
+	box-shadow: 0 0 0 3px red inset; 
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.image-con{
+	position: absolute;
+}
+
+.master{
+	position: relative;
+	max-width:700px;
+	left:36%;
+}
+
+@media(max-width: 700px){
+	.master{
+		left:20%;
+	}
+}
+
+@media(max-width: 800px){
+	.master{
+		left:28%;
+	}
+}
+
+@media(max-width: 500px){
+	.master{
+		left:15%;
+	}
+}
+
+@media(max-width: 400px){
+	.master{
+		left:0;
+	}
+}

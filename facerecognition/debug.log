@@ -1,0 +1,15 @@
+[0803/212501.540:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/055641.938:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/074957.820:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/080023.682:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/080427.265:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/091817.824:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/095057.462:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/202418.917:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0804/211316.876:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0804/211316.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0804/211316.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0804/211316.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0804/211316.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0804/211316.877:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0804/220601.012:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

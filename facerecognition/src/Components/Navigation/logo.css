@@ -1,0 +1,12 @@
+.logo{
+	width:250px;
+	height:200px;
+}
+
+#style-signout{
+	color:#560000;
+}
+
+#style-signout:hover{
+	color:purple;
+}

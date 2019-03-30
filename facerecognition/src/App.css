@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.particles{
+  position: fixed;
+  top:0;
+  left:1px;
+  right:1px;
+  z-index: -2;
+}
+
+.App {
+  text-align: center;
+}
